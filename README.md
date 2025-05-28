@@ -33,7 +33,9 @@
 </div>
 
 ###
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ulric-collaco/ulric-collaco/blob/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/ulric-collaco/ulric-collaco/blob/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/snake.svg" alt="Snake animation" />
-
+</picture>
 ###
