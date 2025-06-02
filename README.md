@@ -53,3 +53,8 @@
 <img src="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/snake.svg" alt="Snake animation" />
 </picture>
 
+<picture>
+  <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" media="(prefers-color-scheme: light)">
+  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" alt="Demo Preview">
+</picture>
