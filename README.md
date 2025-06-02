@@ -1,5 +1,12 @@
 <h2 align="left">Hiiie Ulric here👋</h2>
 
+<picture>
+  <source srcset="github top dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="github top light.png" media="(prefers-color-scheme: light)">
+  <img src="github top light.png" alt="Demo Preview">
+</picture>
+
+
 ###
 
 <div align="center">
