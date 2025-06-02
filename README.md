@@ -1,7 +1,7 @@
 <h2 align="left">Hiiie Ulric here👋</h2>
 
 <picture>
-  <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20dark1.png" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" media="(prefers-color-scheme: light)">
   <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" alt="Demo Preview">
 </picture>
