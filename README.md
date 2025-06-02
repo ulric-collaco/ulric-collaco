@@ -48,13 +48,13 @@
 
 ###
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ulric-collaco/ulric-collaco/blob/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/ulric-collaco/ulric-collaco/blob/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/snake.svg" alt="A snake animation that visualizes contributions on GitHub" style="margin: 0; padding: 0; />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ulric-collaco/ulric-collaco/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ulric-collaco/ulric-collaco/blob/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/snake.svg" alt="A snake animation that visualizes contributions on GitHub" style="margin: 0; padding: 0;" />
 </picture>
 
 <picture>
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20dark.png" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" alt="Demo Preview" style="margin: 0; padding: 0;">
+  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" alt="Demo Preview" style="margin: 0; padding: 0;" />
 </picture>
