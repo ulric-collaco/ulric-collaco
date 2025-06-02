@@ -3,7 +3,7 @@
 <picture>
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20dark1.png" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" alt="Demo Preview">
+  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" alt="Demo Preview" style="margin: 0; padding: 0;">
 </picture>
 
 
@@ -56,5 +56,5 @@
 <picture>
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20dark.png" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" alt="Demo Preview">
+  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20bottom%20light.png" alt="Demo Preview" style="margin: 0; padding: 0;">
 </picture>
