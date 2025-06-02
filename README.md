@@ -1,9 +1,9 @@
 <h2 align="left">Hiiie Ulric here👋</h2>
 
 <picture>
-  <source srcset="github top dark.png" media="(prefers-color-scheme: dark)">
-  <source srcset="github top light.png" media="(prefers-color-scheme: light)">
-  <img src="github top light.png" alt="Demo Preview">
+  <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" media="(prefers-color-scheme: light)">
+  <img src="https://github.com/ulric-collaco/ulric-collaco/blob/main/github%20top%20light%20.png" alt="Demo Preview">
 </picture>
 
 
