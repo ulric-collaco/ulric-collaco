@@ -39,19 +39,26 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ulric-collaco&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ulric-collaco&layout=compact&langs_count=5&theme=merko&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ulric-collaco&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ulric-collaco&layout=compact&langs_count=5&theme=merko&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=ulric-collaco&theme=merko&hide_border=true" height="150" />
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ulric-collaco/ulric-collaco/output/github-snake.svg"
+    alt="GitHub Snake Animation"
+  />
 </picture>
 
 <br>
