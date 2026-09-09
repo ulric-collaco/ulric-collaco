@@ -39,8 +39,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulric-collaco&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ulric-collaco&layout=compact&langs_count=5&theme=merko&hide_border=true" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ulric-collaco&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ulric-collaco&layout=compact&langs_count=5&theme=merko&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=ulric-collaco&theme=merko&hide_border=true" height="150" />
 </div>
 
